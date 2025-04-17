@@ -1,0 +1,9 @@
+{
+    "TGEnbFlag": false,
+    "TGLangs": ["Portuguese"],
+    "TGTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "TGLinkinp": 
+    [ 
+          { "Lang":"Portuguese", "Links": [""]}
+    ]
+ }
