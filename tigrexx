@@ -1,9 +1,9 @@
 {
-    "TGEnbFlag": false,
+    "TGEnbFlag": true,
     "TGLangs": ["Portuguese"],
     "TGTimes": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "TGLinkinp": 
     [ 
-          { "Lang":"Portuguese", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/v3/fortune-tiger?p=p25b"]}
     ]
  }
